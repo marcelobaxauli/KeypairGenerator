@@ -16,4 +16,4 @@ Depois rode o Jar autoexecutavel
 $ java -jar target/keypair-generator-exec-1.0-SNAPSHOT.jar
 ~~~
 
-Após execução, o par de chaves pública e privada serão criadas no path atual.
+Após execução, o par de chaves pública e privada estarão disponíveis no path atual.
